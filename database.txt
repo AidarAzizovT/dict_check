@@ -1,0 +1,12 @@
+САО|cao.db.tcod.test.eirc.mos.ru|cao|BARS14_DEV|8juJDnE9wQ
+SAO|sao.db.tcod.test.eirc.mos.ru|sao|BARS14_DEV|8juJDnE9wQ
+SVAO|svao.db.tcod.test.eirc.mos.ru|svao|BARS14_DEV|8juJDnE9wQ
+SZAO|szao.db.tcod.test.eirc.mos.ru|szao|BARS14_DEV|8juJDnE9wQ
+UAO|uao.db.tcod.test.eirc.mos.ru|uao|BARS14_DEV|8juJDnE9wQ
+UVAO|uvao.db.tcod.test.eirc.mos.ru|uvao|BARS14_DEV|8juJDnE9wQ
+UZAO|uzao.db.tcod.test.eirc.mos.ru|uzao|BARS14_DEV|8juJDnE9wQ
+VAO|vao.db.tcod.test.eirc.mos.ru|vao|BARS14_DEV|8juJDnE9wQ
+ZAO|zao.db.tcod.test.eirc.mos.ru|zao|BARS14_DEV|8juJDnE9wQ
+ZELGRD|zelgrd.db.tcod.test.eirc.mos.ru|zelgrd|BARS14_DEV|8juJDnE9wQ
+NAO|nao.db.tcod.test.eirc.mos.ru|nao|BARS14_DEV|8juJDnE9wQ
+TAO|tao.db.tcod.test.eirc.mos.ru|tao|BARS14_DEV|8juJDnE9wQ
